@@ -9,6 +9,5 @@ Analysis and visualization files:
 - overall_enrichment.ipynb: to calculate number of enriched peptides in each protein and Venn diagrams of hits
 - defining_thresholds.ipynb: to make correlation table and comparison of doped vs undoped metrics
 - align_registers.ipynb: to infer 9mer core register
-- visualize_FP_results.ipynb: to visualize predicted values vs results of FP data 
 
 Code authors: Brooke D. Huisman (Birnbaum Lab) & Zheng Dai (Gifford Lab)
