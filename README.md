@@ -10,4 +10,7 @@ Analysis and visualization files:
 - defining_thresholds.ipynb: to make correlation table and comparison of doped vs undoped metrics
 - align_registers.ipynb: to infer 9mer core register
 
+Library design:
+- encode_peptide_sequences.ipynb: to generate DNA sequences encoding peptide sequences
+
 Code authors: Brooke D. Huisman (Birnbaum Lab) & Zheng Dai (Gifford Lab)
